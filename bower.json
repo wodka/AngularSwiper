@@ -1,0 +1,29 @@
+{
+  "name": "simple-angular-swiper",
+  "homepage": "https://github.com/wodka/AngularSwiper",
+  "authors": [
+    "Michael Schramm <michael.schramm@gmail.com>"
+  ],
+  "description": "implementation for nolimits4web/Swiper",
+  "main": "src/angular-swiper.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "angular",
+    "swiper",
+    "nolimits4web"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Swiper": "swiper#>=3.0.0",
+    "angular": ">=1.3.0"
+  }
+}
