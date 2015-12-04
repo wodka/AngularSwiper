@@ -11,6 +11,8 @@ bower install simple-angular-swiper
 
 ## Usage
 
+add the module `nolimits4web.swiper` to your app dependencies and start using swiper
+
 ```html
 <div
         class="swiper-container"
